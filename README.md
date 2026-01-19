@@ -59,7 +59,7 @@ TaskTracker/
 ## Getting Started
 
 1. Clone the repository:
-git clone https://github.com/your-username/task-tracker-ios.git
+git clone https://github.com/Sw1dge/task-tracker-swiftui
 
 2. Open the project in Xcode:
 open TaskTracker.xcodeproj
