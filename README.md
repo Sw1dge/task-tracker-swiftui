@@ -39,13 +39,13 @@ The project follows the **MVVM** pattern:
 ---
 
 ## Project Structure
-
+```
 TaskTracker/
 ├── Views/ # SwiftUI screens
 ├── ViewModels/ # MVVM business logic, App theme handling
 ├── CoreData/ # Core Data stack
 ├── Tests/ # Unit tests
-
+```
 ---
 
 ## Getting Started
