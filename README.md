@@ -41,18 +41,10 @@ The project follows the **MVVM** pattern:
 ## Project Structure
 
 TaskTracker/
-├── Views/
-│ ├── TaskListView.swift
-│ ├── TaskDetailView.swift
-│ └── TaskCreateView.swift
-├── ViewModels/
-│ └── TaskListViewModel.swift
-├── CoreData/
-│ └── PersistenceController.swift
-├── Theme/
-│ └── ThemeManager.swift
-├── Tests/
-│ └── TaskTrackerTests.swift
+├── Views/ # SwiftUI screens
+├── ViewModels/ # MVVM business logic, App theme handling
+├── CoreData/ # Core Data stack
+├── Tests/ # Unit tests
 
 ---
 
